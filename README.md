@@ -6,4 +6,5 @@ My name is Marcos and I'm a Brazilian engineer trailing the Data Science journey
 - 🌱 I’m currently learning Python and ML
 - 💬 Ask me about anything, if I don't know the answer I'll help you find it :)
 - 📫 How to reach me: marcosffpoleto@gmail.com
+- 📊 Kaggle profile: https://www.kaggle.com/mvrcxsp
 
