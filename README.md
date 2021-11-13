@@ -20,7 +20,7 @@ I've been interacting and constantly studying Python, SQL and other data tools f
 
 - 📫 marcosffpoleto@gmail.com
 - 📸 @mvrcxsfp
-- 👔 [/in/marcos-f-f-poleto/] (https://www.linkedin.com/in/marcos-f-f-poleto/) 
+- 👔 [LinkedIn](https://www.linkedin.com/in/marcos-f-f-poleto/) 
 
 
 
