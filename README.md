@@ -10,15 +10,17 @@ I've been interacting and constantly studying Python, SQL and other data tools f
 
 * Data Collecting and Storage: SQL, SQLite, PostgreSQL.
 * Data Processing and Analysis: Python
-* Development: CRiSP-DM, Git, Linux.
+* Development: CRISP-DM, Git, Linux.
+
+### Data Projects
+
+[**Rossmann Sales Forecast**](https://github.com/mvrcosp/Rossmann)
 
 ### How To Reach Me
 
 - 📫 marcosffpoleto@gmail.com
 - 📸 @mvrcxsfp
-- 👔 linkedin.com/in/marcos-f-f-poleto/ 
+- 👔 [/in/marcos-f-f-poleto/] (https://www.linkedin.com/in/marcos-f-f-poleto/) 
 
-### Data Projects
 
-[**Rossmann Sales Forecast**](https://github.com/mvrcosp/Rossmann)
 
