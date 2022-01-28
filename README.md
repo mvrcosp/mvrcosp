@@ -4,23 +4,21 @@ My name is Marcos and I'm a Brazilian Engineer that loves to explore and model d
 
 ### My Data Science Path So Far
 
-I've been interacting and constantly studying Python, SQL and other data tools for about 2 years now. The projects that I keep here simulate real business problems and trying to solve them is my main objective. 
+I've been interacting and constantly studying Python, SQL and other data tools for about 2 years now. The projects that I keep here simulate real business problems and I take a shot at trying to solve them. 
 
 ### Tools That I Use
 
 * Data Collecting and Storage: SQL, SQLite, PostgreSQL.
-* Data Processing and Analysis: Python
+* Data Processing and Wrangling: Python (numpy, pandas, etc)
+* Data Visualization & Analysis: Python (matplotlib, seaborn, plotly, scipy, etc), Metabase
 * Development: CRISP-DM, Git, Linux.
 
 ### Data Projects
 
-[**Rossmann Sales Forecast**](https://github.com/mvrcosp/Rossmann)
+[**Rossmann Sales Forecast**](https://github.com/mvrcosp/Rossmann) - A sales forecast project for the drugstore chain Rossmann, with their public dataset found in Kaggle. The goal of this project is to predict each store sales for the next six weeks. 
 
 ### How To Reach Me
 
 - 📫 marcosffpoleto@gmail.com
-- 📸 @mvrcxsfp
+- 📸 [@mvrcxsfp](https://www.instagram.com/mvrcxsfp/)
 - 👔 [LinkedIn](https://www.linkedin.com/in/marcos-f-f-poleto/) 
-
-
-
