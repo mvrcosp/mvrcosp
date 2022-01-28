@@ -9,7 +9,7 @@ I've been interacting and constantly studying Python, SQL and other data tools f
 ### Tools That I Use
 
 * Data Collecting and Storage: SQL, SQLite, PostgreSQL.
-* Data Processing and Wrangling: Python (numpy, pandas, etc)
+* Data Processing & Wrangling: Python (numpy, pandas, etc)
 * Data Visualization & Analysis: Python (matplotlib, seaborn, plotly, scipy, etc), Metabase
 * Development: CRISP-DM, Git, Linux.
 
