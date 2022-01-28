@@ -15,7 +15,7 @@ I've been interacting and constantly studying Python, SQL and other data tools f
 
 ### Data Projects
 
-[**Rossmann Sales Forecast**](https://github.com/mvrcosp/Rossmann) - A sales forecast project for the drugstore chain Rossmann, with their public dataset found in Kaggle. The goal of this project is to predict each store sales for the next six weeks. 
+[**Rossmann Sales Forecast**](https://github.com/mvrcosp/Rossmann) - A sales forecast project for the drugstore chain Rossmann, using their public dataset found in Kaggle. The goal of this project is to predict each store sales for the next six weeks. 
 
 ### How To Reach Me
 
