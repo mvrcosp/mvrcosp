@@ -17,7 +17,9 @@ I've been interacting and constantly studying Python, SQL and other data tools f
 
 [**Rossmann Sales Forecast**](https://github.com/mvrcosp/Rossmann) - A sales forecast project for the drugstore chain Rossmann, using their public dataset found in Kaggle. The goal of this project is to predict each store sales for the next six weeks. 
 
-[**Customer Segmentation**](https://github.com/mvrcosp/CustomerSegmentation) - Clustering customers into similar groups based on their shopping data. The goal of this project is to build a interactive report to share with managers about each cluster.
+[**Customer Segmentation**](https://github.com/mvrcosp/CustomerSegmentation) - Clustering customers into similar groups based on their shopping data. The goal of this project is to build a interactive report to share with managers about each group of customers.
+
+[**Kaggle Tabular Playground Series**]() - Simple projects using datasets from Kaggle's Tabular Playground Series. The goal of this repository is to improve my data manipulation and modelling skills practicing with approachable datasets.
 
 ### How To Reach Me
 
