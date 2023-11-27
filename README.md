@@ -1,6 +1,6 @@
 ### Hello there! :) 👋
 
-My name is Marcos and I'm a Brazilian Engineer that loves to explore and model data. I intent to keep this GitHub page as my portfolio where I'll be sharing some projects that I find interesting and showcasing my current knowledge and skillset. Feedbacks are always welcome and hope you enjoy!
+My name is Marcos and I'm a Brazilian System Analyst that loves to explore and model data. I intent to keep this GitHub page as my portfolio where I'll be sharing some projects that I find interesting and showcasing my current knowledge and skillset. Feedbacks are always welcome and hope you enjoy!
 
 ### My Data Science Path So Far
 
